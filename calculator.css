@@ -1,0 +1,20 @@
+input[type=button] {
+    font-family: 'Arial';
+    font-size: 20px;
+    font-weight: bold;
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    background-color:aliceblue;
+    border-color: #001e4d;
+}
+input[type=text]{
+    background-color: #0fa9c1;
+    font-family: 'Arial';
+    font-size: 28px;
+    width: 260px;
+    height: 50px;
+    background-color: aqua;
+    text-align: right;
+}
+
